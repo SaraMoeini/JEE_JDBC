@@ -1,7 +1,8 @@
 # JEE_JDBC
 
-
 download and add mysql connector/j jar file into WEB-INF/lib document of project
+IDE : Eclipse
+
 
 ***************************
 Preparation de bdd
